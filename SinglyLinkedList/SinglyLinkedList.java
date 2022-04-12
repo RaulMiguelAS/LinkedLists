@@ -9,7 +9,7 @@ public class SinglyLinkedList {
         
         return head==null;
     }
-
+//asd
     public void addFirst(Integer value) {
 
         SinglyListNode newHead = new SinglyListNode(value, getHead());
